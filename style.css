@@ -1,0 +1,23 @@
+body{
+  background-color: gray;
+  font-family: Georgia; 
+}
+.message-box{
+  background-color: white;
+  border-color: black;
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  width: 60%;
+  margin: auto;
+  padding: auto;
+}
+.time-stamp{
+  color: red;
+}
+.box{
+  align: center;
+  margin: auto;
+  passing: auto;
+  display: block;
+}
